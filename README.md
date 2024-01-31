@@ -88,3 +88,12 @@ Don't forget to give the project a star! Thanks again!
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+## Contact
+
+Mohammad Moaz Tahir
+
+* Linkedin : (https://www.linkedin.com/in/moaz-tahir)
+* Mail: moaztahir.mt@gmail.com
+
+Project Link: [https://github.com/ZackFairMoaz/Machine-Learning](https://github.com/ZackFairMoaz/Machine-Learning)
