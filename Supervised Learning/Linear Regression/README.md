@@ -1,23 +1,24 @@
 # Linear Regression Salary Prediction App
 
-## Description
+## Getting Started
 
 This project implements a simple web application for predicting salary based on years of experience using linear regression.
 
+### Prerequisites
+
+To get started locally all you need is docker which you can download from https://www.docker.com/
+
 ## Creating Docker Image
 
-1 - Download the 'flask_app' folder from the repository.
-
-2 - Open a terminal or command prompt.
-
-3 - Navigate to the 'flask_app' folder.
-
-4 - Run the following command to build the Docker image:
+1. Download the 'flask_app' folder from the repository.
+2. Open a terminal or command prompt.
+3. Navigate to the 'flask_app' folder.
+4. Run the following command to build the Docker image:
 
 ```bash
 docker build -t <name> .
 ```
-5 - Once the Docker image is built, run the following command to start the Docker container:
+5. Once the Docker image is built, run the following command to start the Docker container:
 
 ```bash
 docker run -p 5000:5000 --rm <name>
@@ -25,9 +26,8 @@ docker run -p 5000:5000 --rm <name>
 
 Note
 
-1 - <name> is placeholder name of the image which can be customized to preference
-
-2 - rm command helps delete the container immediately after it exits
+* <name> is placeholder name of the image which can be customized to preference
+* rm command helps delete the container immediately after it exits
 
 ## Usage
 
