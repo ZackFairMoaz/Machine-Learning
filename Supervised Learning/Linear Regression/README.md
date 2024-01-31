@@ -26,7 +26,7 @@ docker run -p 5000:5000 --rm <name>
 
 Note
 
-* <name> is placeholder name of the image which can be customized to preference
+* name is placeholder name of the image which can be customized to preference
 * rm command helps delete the container immediately after it exits
 
 ## Usage
