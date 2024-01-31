@@ -7,8 +7,11 @@ This project implements a simple web application for predicting salary based on 
 ## Creating Docker Image
 
 1 - Download the 'flask_app' folder from the repository.
+
 2 - Open a terminal or command prompt.
+
 3 - Navigate to the 'flask_app' folder.
+
 4 - Run the following command to build the Docker image:
 
 ```bash
