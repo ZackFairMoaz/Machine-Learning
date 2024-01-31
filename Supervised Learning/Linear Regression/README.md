@@ -2,11 +2,13 @@
 
 ## Getting Started
 
-This project implements a simple web application for predicting salary based on years of experience using linear regression.
+This project implements an intuitive and user-friendly web application that utilizes linear regression to provide accurate salary predictions based on an individual's years of professional experience.
 
 ### Prerequisites
 
 To get started locally all you need is docker which you can download from https://www.docker.com/
+
+Docker is a platform that allows developers to package, distribute, and run applications in containers. Containers are lightweight, portable, and isolated environments that encapsulate everything needed to run an application, including code, runtime, system tools, libraries, and settings. Docker simplifies the process of building, shipping, and deploying applications by providing a consistent environment across different systems, making it easier to develop and deploy software in various environments, from development to production
 
 ## Creating Docker Image
 
@@ -26,8 +28,13 @@ docker run -p 5000:5000 --rm <name>
 
 Note
 
-* name is placeholder name of the image which can be customized to preference
-* rm command helps delete the container immediately after it exits
+* **docker build** is acommand to build a Docker image
+* **-t** flag is used to tag the image with a name and optionally a tag
+* **name** is placeholder name of the image which can be customized to preference
+* **.** period represents the build context. It tells Docker to use the current directory as the build context
+* **'docker run'** is a command used in Docker to create and start a new container based on a specified image
+* **rm** flag helps delete the container immediately after it exits
+* **-p 5000:5000:** flag maps port 5000 from the Docker container to port 5000 on the host machine
 
 ## Usage
 
