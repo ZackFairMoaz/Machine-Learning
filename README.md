@@ -93,7 +93,7 @@ Don't forget to give the project a star! Thanks again!
 
 Mohammad Moaz Tahir
 
-* Linkedin : (https://www.linkedin.com/in/moaz-tahir)
+* Linkedin : [https://www.linkedin.com/in/moaz-tahir](https://www.linkedin.com/in/moaz-tahir)
 * Mail: moaztahir.mt@gmail.com
 
 Project Link: [https://github.com/ZackFairMoaz/Machine-Learning](https://github.com/ZackFairMoaz/Machine-Learning)
