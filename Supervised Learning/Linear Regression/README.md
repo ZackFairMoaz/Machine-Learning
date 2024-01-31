@@ -15,15 +15,19 @@ This project implements a simple web application for predicting salary based on 
 4 - Run the following command to build the Docker image:
 
 ```bash
-docker build -t my-flask-app .
+docker build -t <name> .
 ```
 5 - Once the Docker image is built, run the following command to start the Docker container:
 
 ```bash
-docker run -p 5000:5000 my-flask-app
+docker run -p 5000:5000 --rm <name>
 ```
 
-Note: my-flask-app is the name of the image which can be customized to preference
+Note
+
+1 - <name> is placeholder name of the image which can be customized to preference
+
+2 - rm command helps delete the container immediately after it exits
 
 ## Usage
 
