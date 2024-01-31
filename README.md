@@ -2,7 +2,7 @@
 
 ## About The Project
 
-This project contains different handcrafted Machine Learning Models with variety of training datasets, each tailored with best suited models. Each Model is carefully assigned in the folder tree structure with relevant Notebooks, flask apps with Docker, Gradio, for implementation, and inferencing Models. All this is avalible for you to learn about basics of AI/ML development.
+This project contains different handcrafted Machine Learning Models with variety of training datasets, each tailored with best suited models. Inside, you'll find a well-organized folder structure containing relevant notebooks, Flask apps with Docker, Gradio interfaces for implementation, and inference models. All this is avalible for you to learn about basics of AI/ML development.
 
 ## Useage
 
