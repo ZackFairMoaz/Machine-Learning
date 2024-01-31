@@ -2,7 +2,11 @@
 
 ## About The Project
 
-Self Curated list of Machine learning algorithms and their implementation as a helper for future projects and self learning
+This project contains different handcrafted Machine Learning Models with variety of training datasets, each tailored with best suited models. Each Model is carefully assigned in the folder tree structure with relevant Notebooks, flask apps with Docker, Gradio, for implementation, and inferencing Models. All this is avalible for you to learn about basics of AI/ML development.
+
+## Useage
+
+Refer to Readme for each app in thier respective folders to run locally
 
 ## Roadmap
 
@@ -71,10 +75,6 @@ Deep Learning
     - [ ] VGG16
     - [ ] VGG19
 - [ ] Neural Architecture Search
-    
-## Usage
-
-This project contains different handcrafted Machine Learning Models with variety of training datasets, each tailored with best suited models. Each Model is carefully assigned in the folder tree structure with relevant Notebooks, flask apps with Docker, and Gradio for implementation, and inferencing respectively. Refer to Readme for each app to run locally. All this is avalible for you to learn about basics of AI/ML development.
 
 ## Contributing
 
