@@ -13,6 +13,7 @@ Docker is a platform that allows developers to package, distribute, and run appl
 ## Creating Docker Image
 
 1. Download the 'flask_app' folder from the repository or clone the repo with
+
    ```sh
    git clone https://github.com/ZackFairMoaz/Machine-Learning.git
    ```
