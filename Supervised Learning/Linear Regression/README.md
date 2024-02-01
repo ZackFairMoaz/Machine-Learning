@@ -25,7 +25,7 @@ The notebook further explores the linear regression model for predicting salarie
 * Scaling the target variable using Min-Max scaling.
 * Building and training the linear regression model.
 * Evaluating the model's performance using Root Mean Squared Error and visualizing predictions.
-* The trained model is saved as Regression_Model.sav using the pickle library.
+* Saving the trained model as Regression_Model.sav using the pickle library for inference.
 
 ## Flask App Section
 
@@ -57,13 +57,13 @@ docker run -p 5000:5000 --rm <name>
 
 > [!NOTE]
 > * To download a folder from GitHub, navigate to your desired repository, select the folder you want to download from GitHub, copy the URL, navigate to https://download-directory.github.io/ and paste the URL into the text box, and hit enter.
-> * ***docker build*** is a command to build a Docker image
-> * ***-t*** flag is used to tag the image with a name and optionally a tag
-> * ***name*** is placeholder name of the image which can be customized to preference
-> * ***.*** period represents the build context. It tells Docker to use the current directory as the build context
-> * ***'docker run'*** is a command used in Docker to create and start a new container based on a specified image
-> * ***rm*** flag helps delete the container immediately after it exits
-> * ***-p 5000:5000:*** flag maps port 5000 from the Docker container to port 5000 on the host machine
+> * ***docker build*** is a command to build a Docker image.
+> * ***-t*** flag is used to tag the image with a name and optionally a tag.
+> * ***name*** is placeholder name of the image which can be customized to preference.
+> * ***.*** period represents the build context. It tells Docker to use the current directory as the build context.
+> * ***'docker run'*** is a command used in Docker to create and start a new container based on a specified image.
+> * ***rm*** flag helps delete the container immediately after it exits.
+> * ***-p 5000:5000:*** flag maps port 5000 from the Docker container to port 5000 on the host machine.
 
 ## Usage
 
