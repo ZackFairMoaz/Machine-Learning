@@ -59,6 +59,10 @@ Docker is a platform that allows developers to package, distribute, and run appl
    ```sh
    git clone https://github.com/ZackFairMoaz/Machine-Learning.git
    ```
+
+> [!NOTE]
+> * To download a folder from GitHub, navigate to your desired repository, select the folder you want to download from GitHub, copy the URL, navigate to https://download-directory.github.io/ and paste the URL into the text box, and hit enter.
+
 2. Open a terminal or command prompt.
 3. Navigate to the 'flask_app' folder.
 4. Run the following command to build the Docker image:
@@ -73,7 +77,6 @@ docker run -p 5000:5000 --rm <name>
 ```
 
 > [!NOTE]
-> * To download a folder from GitHub, navigate to your desired repository, select the folder you want to download from GitHub, copy the URL, navigate to https://download-directory.github.io/ and paste the URL into the text box, and hit enter.
 > * ***docker build*** is a command to build a Docker image.
 > * ***-t*** flag is used to tag the image with a name and optionally a tag.
 > * ***name*** is placeholder name of the image which can be customized to preference.
