@@ -1,4 +1,4 @@
-# Linear Regression Salary Prediction App
+# Logistic Regression Heart Attack Prediction App
 
 ## Introduction
 
@@ -29,7 +29,7 @@ Dataset is taken for learning purpose. Source of the data : https://archive.ics.
 
 * Notebook and Dataset: Download the ***Heart_attack_prediction.ipynb*** and ***heart.csv***
 
-* Python Environment: Make sure you have Python 3 installed on your system. You can download it from https://www.python.org/downloads/.
+* Python Environment: Make sure you have Python3 installed on your system. You can download it from https://www.python.org/downloads/.
 
 * Open the notebook in VSCode and use the Jupyter extension to run cells. Optionally, you can use Jupyter Notebook as well
 
