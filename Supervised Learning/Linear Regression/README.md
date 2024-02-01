@@ -8,6 +8,21 @@ The dataset, Salary_Data.csv, consists of two columns: "YearsExperience" and "Sa
 
 ## Notebook Section
 
+### Prerequisites
+
+* Python Environment: Make sure you have Python 3 installed on your system. You can download it from https://www.python.org/downloads/.
+
+* Open the notebook in VSCode and use the Jupyter extension to run cells. Optionally, you can use Jupyter Notebook as well
+
+* Libraries: Install the required Python libraries using the following commands:
+
+```bash
+pip install pandas
+pip install matplotlib
+pip install seaborn
+pip install scikit-learn
+```
+
 ### Dataset Exploration
 
 The dataset is explored using the Jupyter Notebook Salary_Prediction_Exploration.ipynb. The notebook includes:
