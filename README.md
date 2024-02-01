@@ -4,6 +4,9 @@
 
 This project contains different handcrafted Machine Learning Models with variety of training datasets, each tailored with best suited models. Inside, you'll find a well-organized folder structure containing relevant notebooks, Flask apps with Docker, Gradio interfaces for implementation, and/or inference models(applied if applicable). All this is avalible for you to learn about basics of AI/ML development.
 
+> [!NOTE]
+> This project is still under developement and the progress so far is mentioned in the Roadmap section
+
 ## Useage
 
 Refer to Readme for each app in thier respective folders to run locally
