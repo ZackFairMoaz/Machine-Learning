@@ -1,16 +1,41 @@
 # Linear Regression Salary Prediction App
 
-## Getting Started
+## Introduction
 
 This project implements an intuitive and user-friendly web application that utilizes linear regression to provide accurate salary predictions based on an individual's years of professional experience.
 
-### Prerequisites
+The dataset, Salary_Data.csv, consists of two columns: "YearsExperience" and "Salary,"
+
+## Notebook Section
+
+### Dataset Exploration
+
+The dataset is explored using the Jupyter Notebook Salary_Prediction_Exploration.ipynb. The notebook includes:
+
+* Reading and loading the dataset.
+* Displaying information and summary statistics of the dataset.
+* Visualizing the distribution of salaries.
+* Plotting a scatter plot to visualize the correlation between years of experience and salary.
+
+### Model Training and Evaluation
+
+The notebook further explores the linear regression model for predicting salaries. Key steps include:
+
+* Splitting the dataset into training and testing sets.
+* Scaling the target variable using Min-Max scaling.
+* Building and training the linear regression model.
+* Evaluating the model's performance using Root Mean Squared Error and visualizing predictions.
+* The trained model is saved as Regression_Model.sav using the pickle library.
+
+## Flask App Section
+
+### Get Started Locally
 
 To get started locally all you need is docker which you can download from https://www.docker.com/
 
 Docker is a platform that allows developers to package, distribute, and run applications in containers. Containers are lightweight, portable, and isolated environments that encapsulate everything needed to run an application, including code, runtime, system tools, libraries, and settings. Docker simplifies the process of building, shipping, and deploying applications by providing a consistent environment across different systems, making it easier to develop and deploy software in various environments, from development to production
 
-## Creating Docker Image
+### Creating Docker Image
 
 1. Download the 'flask_app' folder from the repository or clone the repo with
 
@@ -42,12 +67,11 @@ docker run -p 5000:5000 --rm <name>
 
 ## Usage
 
-Access the application by opening a web browser and navigating to http://127.0.0.1:5000.
+Access the application by running the image in a container and opening a web browser to navigate to http://127.0.0.1:5000.
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Your insights and improvements are highly appreciated.
 
 ## License
 
