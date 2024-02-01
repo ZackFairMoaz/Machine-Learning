@@ -61,7 +61,7 @@ Docker is a platform that allows developers to package, distribute, and run appl
    ```
 
 > [!NOTE]
-> * To download a folder from GitHub, navigate to your desired repository, select the folder you want to download from GitHub, copy the URL, navigate to https://download-directory.github.io/ and paste the URL into the text box, and hit enter.
+> To download a folder from GitHub, navigate to your desired repository, select the folder you want to download from GitHub, copy the URL, navigate to https://download-directory.github.io/ and paste the URL into the text box, and hit enter.
 
 2. Open a terminal or command prompt.
 3. Navigate to the 'flask_app' folder.
