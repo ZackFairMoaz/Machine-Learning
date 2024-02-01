@@ -30,8 +30,7 @@ docker build -t <name> .
 docker run -p 5000:5000 --rm <name>
 ```
 
-Note
-
+[!NOTE]
 * To download a folder from GitHub, navigate to your desired repository, select the folder you want to download from GitHub, copy the URL, navigate to https://download-directory.github.io/ and paste the URL into the text box, and hit enter.
 * ***docker build*** is a command to build a Docker image
 * ***-t*** flag is used to tag the image with a name and optionally a tag
