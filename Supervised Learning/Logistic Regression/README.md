@@ -90,7 +90,7 @@ Gradio is an open-source Python library designed for fast and straightforward UI
 ```bash
 python app.py
 ```
-5. Once the Gradio app is up and running, you should see a link to local host, use CTRL+Click to open, alternatively you can run the url inyour web browser mentioned below
+5. Once the Gradio app is up and running, you should see a link to local host, use CTRL+Click to open, alternatively you can run the url mentioned below in your web browser
 
 ## Usage
 
