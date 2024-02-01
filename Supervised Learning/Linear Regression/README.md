@@ -89,6 +89,8 @@ docker run -p 5000:5000 --rm <name>
 
 Access the application by running the image in a container and opening a web browser to navigate to http://127.0.0.1:5000.
 
+(Optionally, you can un-comment the model.train() line in app.py to train the model whenever the app starts)
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Your insights and improvements are highly appreciated.
