@@ -35,4 +35,4 @@ demo = gr.Interface(
 
 if __name__ == "__main__":
     model.train()
-    demo.launch(share=True)
+    demo.launch(share=True, server_name='0.0.0.0')
