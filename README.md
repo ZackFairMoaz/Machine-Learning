@@ -71,15 +71,6 @@ Deep Learning
     - [ ] Boltzmann Machines
     - [ ] Hopfield Machines
     - [ ] Graph Neural Networks
-- [ ] Architectures
-    - [ ] Alexnet
-    - [ ] DenseNet
-    - [ ] ImageNet
-    - [ ] MobileNet
-    - [ ] ResNet
-    - [ ] U-NET
-    - [ ] VGG16
-    - [ ] VGG19
 - [ ] Neural Architecture Search
 
 ## Contributing
