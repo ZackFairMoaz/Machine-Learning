@@ -6,6 +6,29 @@ This project implements an intuitive and user-friendly web application that util
 
 The dataset, Salary_Data.csv, consists of two columns: "YearsExperience" and "Salary,"
 
+## What is Linear Regression
+
+Linear regression is a data analysis technique that predicts the value of unknown data by using another related and known data value. It mathematically models the unknown or dependent variable and the known or independent variable as a linear equation. For instance, suppose that you have data about your expenses and income for last year. Linear regression techniques analyze this data and determine that your expenses are half your income. They then calculate an unknown future expense by halving a future known income.
+
+At its core, a simple linear regression technique attempts to plot a line graph between two data variables, x and y. As the independent variable, x is plotted along the horizontal axis. Independent variables are also called explanatory variables or predictor variables. The dependent variable, y, is plotted on the vertical axis. You can also refer to y values as response variables or predicted variables.
+
+### Steps in linear regression
+
+For this overview, consider the simplest form of the line graph equation between y and x; y=c*x+m, where c and m are constant for all possible values of x and y. So, for example, suppose that the input dataset for (x,y) was (1,5), (2,8), and (3,11). To identify the linear regression method, you would take the following steps:
+
+* Plot a straight line, and measure the correlation between 1 and 5.
+* Keep changing the direction of the straight line for new values (2,8) and (3,11) until all values fit.
+* Identify the linear regression equation as y=3*x+2.
+* Extrapolate or predict that y is 14 when x is
+
+### Types of Linear Regression
+
+* Simple linear regression: Y= β0*X + β1 + ε
+* Multiple linear regression: Y= β0*X0 + β1X1 + β2X2+…… βnXn+ ε
+* Logistic regression:  Use logarithmic functions to compute the regression line iwth a prediction being a value between 0 and 1
+
+Where β0 and β1 are two unknown constants representing the regression slope, whereas ε (epsilon) is the error term.
+
 ## Notebook Section
 
 ### Prerequisites
