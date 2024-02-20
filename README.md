@@ -9,7 +9,7 @@ This project contains different handcrafted Machine Learning Models with variety
 
 ## Useage
 
-Refer to Readme for each app in thier respective folders to run them locally
+Refer to Readme for each app in thier respective folders to run them locally as well as getting to know the theory
 
 > [!NOTE]
 > Every project has its own different purpose, framework/tool-stack. As such, not every single one will have one or more of implementations mentioned in ***About The Project*** section
