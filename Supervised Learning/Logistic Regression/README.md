@@ -23,6 +23,24 @@ The dataset, heart.csv, consists of 14 columns:
 
 Dataset is taken for learning purpose. Source of the data : https://archive.ics.uci.edu/ml/datasets/Heart+Disease
 
+## What is Logistic Regression
+
+Logistic regression is a data analysis technique that uses mathematics to find the relationships between two data factors. It then uses this relationship to predict the value of one of those factors based on the other. The prediction usually has a finite number of outcomes, like yes or no.
+
+In mathematics as the equation between x and y. The logit function maps y as a sigmoid function of x.
+
+In many cases, multiple explanatory variables affect the value of the dependent variable. To model such input datasets, logistic regression formulas assume a linear relationship between the different independent variables. You can modify the sigmoid function and compute the final output variable as 
+
+y = f(β0 + β1x1 + β2x2+… βnxn)
+
+The symbol β represents the regression coefficient. The logit model can reverse calculate these coefficient values when you give it a sufficiently large experimental dataset with known values of both dependent and independent variables. 
+
+## Types of Logistic Regression
+
+* Binary logistic regression: Works well for binary classification problems that have only two possible outcome (0-1 / Yes-No)
+* Multinomial logistic regression: Analyzes problems that have several possible outcomes as long as the number of outcomes is finite (25%, 50%, 75%, 100%)
+* Ordinal logistic regression: ordered logit model, is a special type of multinomial regression for problems in which numbers represent ranks rather than actual values (rank your service as poor, fair, good, or excellent)
+
 ## Notebook Section
 
 ### Prerequisites
