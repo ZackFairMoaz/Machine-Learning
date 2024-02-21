@@ -19,8 +19,7 @@ Refer to Readme for each app in thier respective folders to run them locally as 
 Supervised
 - [x] Linear Regression
 - [x] Logistic Regression
-- [ ] Elastic Net Regression
-- [ ] Naive Bayes
+- [x] Naive Bayes
 - [ ] SVM
 - [ ] Decision Tree
 - [ ] Ensembles
