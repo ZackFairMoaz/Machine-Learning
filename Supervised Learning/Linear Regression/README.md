@@ -25,7 +25,7 @@ For this overview, consider the simplest form of the line graph equation between
 
 * Simple linear regression: Y= β0*X + β1 + ε
 * Multiple linear regression: Y= β0*X0 + β1X1 + β2X2+…… βnXn+ ε
-* Logistic regression:  Use logarithmic functions to compute the regression line iwth a prediction being a value between 0 and 1
+* Logistic regression:  Use logarithmic functions to compute the regression line with a prediction being a value between 0 and 1
 
 Where β0 and β1 are two unknown constants representing the regression slope, whereas ε (epsilon) is the error term.
 
