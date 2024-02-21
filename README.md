@@ -19,6 +19,7 @@ Refer to Readme for each app in thier respective folders to run them locally as 
 Supervised
 - [x] Linear Regression
 - [x] Logistic Regression
+- [ ] Elastic Net Regression
 - [ ] Naive Bayes
 - [ ] SVM
 - [ ] Decision Tree
@@ -62,6 +63,9 @@ Deep Learning
 - [ ] Neural Networks
     - [ ] FeedForward Neural Networks
     - [ ] Convolutional Neural Networks
+    - [ ] Deconvolutional Neural Networks
+    - [ ] MultiLayer Perceptrons(Feed Forward)
+    - [ ] Generative Adversarial Networks
     - [ ] MLP
     - [ ] RNN
         - [ ] GRU
@@ -96,5 +100,3 @@ Mohammad Moaz Tahir
 
 * Linkedin : [https://www.linkedin.com/in/moaz-tahir](https://www.linkedin.com/in/moaz-tahir)
 * Mail: moaztahir.mt@gmail.com
-
-Project Link: [https://github.com/ZackFairMoaz/Machine-Learning](https://github.com/ZackFairMoaz/Machine-Learning)
