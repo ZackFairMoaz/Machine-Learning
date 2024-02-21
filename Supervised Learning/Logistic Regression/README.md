@@ -29,7 +29,7 @@ Logistic regression is a data analysis technique that uses mathematics to find t
 
 In mathematics as the equation between x and y. The logit function maps y as a sigmoid function of x.
 
-https://github.com/[Zackfairmoaz]/[Machine-Learning]/blob/[main]/"Supervised Learning"/"Logistic Regression"/sigmoid.png?raw=true
+![Alt text](sigmoid.png)
 
 In many cases, multiple explanatory variables affect the value of the dependent variable. To model such input datasets, logistic regression formulas assume a linear relationship between the different independent variables. You can modify the sigmoid function and compute the final output variable as 
 
